@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "MvwoD1XwFs8=",
+  "success": true,
+  "projectFilePath": "C:\\NORBER\\CURSOS\\CURSO DEV OPS\\Alumno\\curso-devops\\src\\ConstactosAPI\\ConstactosAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio del origen https://sancristobalctd.pkgs.visualstudio.com/_packaging/gruposancristobal/nuget/v3/index.json.",
+      "projectPath": "C:\\NORBER\\CURSOS\\CURSO DEV OPS\\Alumno\\curso-devops\\src\\ConstactosAPI\\ConstactosAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\NORBER\\CURSOS\\CURSO DEV OPS\\Alumno\\curso-devops\\src\\ConstactosAPI\\ConstactosAPI.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.OpenApi\" 2.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\NORBER\\CURSOS\\CURSO DEV OPS\\Alumno\\curso-devops\\src\\ConstactosAPI\\ConstactosAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\NORBER\\CURSOS\\CURSO DEV OPS\\Alumno\\curso-devops\\src\\ConstactosAPI\\ConstactosAPI.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
